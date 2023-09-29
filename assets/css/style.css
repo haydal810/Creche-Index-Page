@@ -1160,3 +1160,7 @@ section {
   font-size: 13px;
   color: #ccc;
 }
+
+/* Custom css */
+
+#services .row {justify-content: space-around;}
